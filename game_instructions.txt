@@ -1,0 +1,5 @@
+arrow up: to change object shape
+
+arrow down: move down
+arrow left: move left
+arrow right: move right
