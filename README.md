@@ -1,5 +1,5 @@
 <!-- PROJECT TITLE -->
-  <h1 align="center">Snake game</h1>
+  <h1 align="center">Tetris game</h1>
  <h2 2 align="center">
     100DaysOfCode project_eight
     <br />
